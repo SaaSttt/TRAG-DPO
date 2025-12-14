@@ -12,7 +12,7 @@
 
 ## 📢 News
 
-- **[2025-12]** Code and datasets are released!
+- **[2025-12]** Code and datasets are released!!!
 
 ## 📖 Introduction
 
@@ -126,7 +126,7 @@ We acknowledge the following open-source projects and datasets that facilitated 
 *   **MMed-RAG**: We referenced the original Direct Preference Optimization implementation.
     *   https://github.com/richard-peng-xia/MMed-RAG
 
-- **CLIP **: Used for image-text feature alignment in the coarse-grained retrieval stage.
+- **CLIP** : Used for image-text feature alignment in the coarse-grained retrieval stage.
   - https://github.com/bubbliiiing/clip-pytorch
 
 - **AgriCLIP**: Used as an agricultural domain-adapted CLIP model for robust image–text representation learning.
