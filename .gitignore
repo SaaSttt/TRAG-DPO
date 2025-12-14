@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda
+.env
+.venv
+*.conda
+
+# Model weights
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+
+# Dataset
+data/
+datasets/
+
+# Logs
+logs/
+wandb/
+
+# OS
+.DS_Store

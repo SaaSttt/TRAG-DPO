@@ -1,0 +1,43 @@
+This is a photo of a leaf affected by two-spotted spider mite. The leaves are only affected by two-spotted spider mite and do not suffer from tomato mosaic virus disease or tomato early blight tomato late blight tomato septoria leaf spot、Tomato bacterial mottle disease、tomato yellow leaf curl virus、tomato leaf mold And tomato target spot. The following is knowledge about two-spotted spider mite:
+Tomato two-spotted leaf mite (Tetranychus urticae) is a worldwide distribution of piercing-sucking pest, belonging to the leaf mite family (Tetranychidae). The mite reproduces quickly, is resistant to chemicals, and mainly harms tomato leaves, resulting in reduced photosynthesis, yellowing and shedding of leaves, and in severe cases, can cause a 30%~50% reduction in yield, and is one of the most important pests in tomato cultivation.
+1. Pest type 
+Scientific name: Tetranychus urticae (two-spotted leaf mite, commonly known as red spider mite).
+Classification: Arachnida, Acari, Tetranychidae (leaf mites).
+Characteristics: tiny body size (0.3~0.5 mm), difficult to recognize with the naked eye, need to use magnifying glass to observe. Reproduction is very fast, in the high temperature and dry conditions, 3~5 days can complete a generation. Wide range of hosts, in addition to tomato, but also can harm pepper, cucumber, beans, strawberries and other 200 kinds of plants.
+2. Hazardous parts 
+mainly harms the leaf blade (especially the middle and lower old leaves), and in serious cases, it can spread to the young stems, flowers and young fruits.
+3. Symptoms 
+(1) Leaf symptoms 
+Initial stage: small yellowish-white spots appear on the leaf surface (chlorophyll destruction caused by mite sucking). Dense spider threads and crawling mites can be seen on the back of leaves (magnification is needed).
+Middle stage: the spots expand in succession, the leaves are yellowed and greenish, and in serious cases, they curl and dry up. The backs of the leaves are covered with white moulting shells and black excreta.
+Later stage: the whole plant leaves are scorched and fall off, only a few new leaves remain at the top, and the growth of the plant is stagnant.
+(2) Symptoms of stems, flowers and fruits (less common) 
+Young stems: brown rough spots appear on the epidermis after damage.
+Fruit: Rusty spots appear on the fruit skin, affecting the commercialization.
+4. Morphological characteristics of pests
+(1) Adult: female mite: oval, body length 0.4~0.5 mm, light yellow or yellowish green in summer, orange-red in overwintering period. There is a black spot on each side of the back of the body (the origin of the name “double spot”). Male mites: smaller in size (about 0.3 mm), with a thin pointed end of the abdomen and lighter body color.
+(2) Eggs: spherical, about 0.1 mm in diameter, transparent at the time of laying, yellowish before hatching.
+(3) Wake mites: smaller than adults, 3 pairs of legs (larval stage) → 4 pairs of legs (wakame stage), body color deepens with feeding.
+5. Life history and infestation cycle 
+(1) Life history 
+Eggs→larvae→wake mites→adults, it takes 5~20 days to complete one generation (the higher the temperature, the faster the development). Mode of reproduction: Female mites can reproduce alone (unfertilized eggs develop into male mites). A single female lays 50~100 eggs and has a life span of 2~4 weeks.
+(2) Overwintering and initial infestation 
+Overwintering places: weeds, soil cracks, plant remains in greenhouses/ greenhouses. Overwintering sites: greenhouse/ greenhouse, weeds, soil cracks, plant debris. Open field can overwinter in bark cracks, dead leaves.
+Transmission pathways: wind (through spider drift), agricultural operations (tools, clothing), seedling transfer. 6.
+6. Occurrence factors 
+(1) Environmental factors 
+Temperature: optimal 25~30℃, above 40℃ or below 10℃ development is inhibited.
+Humidity: like dry (relative humidity <60%), high humidity (>80%) can inhibit its reproduction.
+(2) Cultivation management: Continuous cropping: insect sources accumulate, and the damage is aggravated. Excessive nitrogen fertilizer: leaves are tender and more susceptible to damage. Drought and little rain: accelerate the population outbreak.
+7. Prevention and control methods 
+(1) Agricultural control: 
+Remove the source of insects: thoroughly remove weeds and residual plants in the field before planting to reduce the overwintering base. High-temperature smothering in greenhouses (close the greenhouse to 45 ℃ to maintain 2 hours).
+Water and fertilizer management: avoid partial application of nitrogen fertilizer, increase the application of calcium, silicon fertilizer to enhance leaf resistance. Spray irrigation to increase humidity in drought (leaf mites like dryness and are afraid of moisture).
+Biological control: planting mite repellent plants (e.g. mint, marigold) or trapping plants (e.g. beans).
+(2) Biological control: 
+Use of natural enemies: Predatory mites (Chilean small plant suibi mite, California new small suibi mite), released at a ratio of 1:10~20 (benefit-harm ratio). Lacewings and ladybugs can prey on leaf mite larvae and adults.
+Bio-pesticides: Picrasidine, veratrine, neem spray (need to cover the back of leaves).
+(3) Chemical control: 
+Ovicides: Spirodiclofen (Dinocarb), Etofenprox (Leaflox).
+Adulticides/wakeworm killers: bifenazate (Acetamiprid), abamectin (Zygomycetin). Pyridaben, kynurenine (keflex).
+Precautions: Rotate the use of drugs to avoid the emergence of resistance (leaf mite resistance is very strong). Focus on spraying the back of the leaves, add silicone additives to improve the permeability of the liquid.

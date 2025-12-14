@@ -1,0 +1,13 @@
+Is the leaf in the image in a healthy condition?
+Is the leaf in the image diseased?
+Is the leaf in the image affected by tomato early blight?
+Is the leaf in the image affected by tomato late blight?
+Is the leaf in the image affected by tomato septoria leaf spot?
+Is the leaf in the image affected by tomato mosaic virus?
+Is the leaf in the image affected by tomato bacterial speck?
+Is the leaf in the image affected by tomato yellow leaf curl virus?
+Is the leaf in the image affected by two-spotted spider mite?
+Is the leaf in the image affected by tomato leaf mold?
+Is the leaf in the image affected by tomato target spot?
+If the leaf in the image is diseased, is the disease seasonal and sensitive to environmental conditions?
+If the leaf in the image is diseased, does the disease have strong potential for long-distance transmission?
