@@ -12,7 +12,7 @@
 
 ## 📢 News
 
-- **[2025-12]** Code and datasets are released!!!
+- **[2025-12]** Code and datasets are released!
 
 ## 📖 Introduction
 
@@ -47,12 +47,12 @@ conda activate trag-dpo
 
 Since the datasets and weights are large, we provide external download links. Please download and place them in the corresponding directories.
 
-| Resource           | Description                       | Path in Repo         | Download Link                                                |
-| ------------------ | --------------------------------- | -------------------- | ------------------------------------------------------------ |
-| **LLaVA-1.5-7B**   | Base pre-trained VLM weights      | llava-v1.5-7b/       | [https://huggingface.co/liuhaotian/llava-v1.5-7b/tree/main]  |
-| **CDDM**           | Images & JSON for Stage 1 SFT     | data/cddm_tomato/    | [https://github.com/UnicomAI/UnicomBenchmark/tree/main/CDDMBench] |
-| **Knowledge Base** | Tomato disease textual KB for RAG | data/knowledge_base/ | [https://huggingface.co/datasets/SaaSttt/Tomato_Knowledge_Base] |
-| **DPO Dataset**    | Preference pairs for Stage 3      | data/dpo_data/       | [https://huggingface.co/datasets/SaaSttt/DPO_Dataset]        |
+| Resource           | Description                       | Path in Repo      | Download Link                                                |
+| ------------------ | --------------------------------- | ----------------- | ------------------------------------------------------------ |
+| **LLaVA-1.5-7B**   | Base pre-trained VLM weights      | llava-v1.5-7b/    | [https://huggingface.co/liuhaotian/llava-v1.5-7b/tree/main]  |
+| **CDDM**           | Images & JSON for Stage 1 SFT     | data/cddm_tomato/ | [https://github.com/UnicomAI/UnicomBenchmark/tree/main/CDDMBench] |
+| **Knowledge Base** | Tomato disease textual KB for RAG | data/know/        | [https://huggingface.co/datasets/SaaSttt/Tomato_Knowledge_Base] |
+| **DPO Dataset**    | Preference pairs for Stage 3      | data/dpo_data/    | [https://huggingface.co/datasets/SaaSttt/DPO_Dataset]        |
 
 ## 🚀 Training Pipeline
 
