@@ -24,7 +24,7 @@ Existing general-purpose Vision-Language Models (VLMs) often suffer from **hallu
 2.  **Hybrid Retrieval (RAG)**: A coarse-to-fine mechanism combining global/local image features and textual ranking.
 3.  **DPO Fine-Tuning**: Direct Preference Optimization to align model responses with expert knowledge and reduce redundancy.
 
-![image-20251213173907668](fig\framework.png)
+![image-20251213173907668](fig/framework.png)
 												Framework of the TRAG-DPO model with four main components.
 
 ## 🛠️ Environment Setup
@@ -95,7 +95,7 @@ bash /TRAG-DPO/DPO-RAG-main/scripts/train_dpo_2stages.sh
 
 Click the tomato leaf disease image to chat with TRAG-DPO about disease information.
 
-![image-20251214160246480](fig\vqa.png)
+![image-20251214160246480](fig/vqa.png)
 
 
 
