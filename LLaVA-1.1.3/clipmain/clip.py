@@ -13,7 +13,7 @@ class CLIP(object):
         #--------------------------------------------------------------------#
         #   指向logs文件夹下的权值文件
         #--------------------------------------------------------------------#
-        "model_path"        : '/data/datasets/zhuhaoran/CDDMBench/LLaVA-1.1.3/clipmain/logs/FG/last_epoch_weights.pth',
+        "model_path"        : '/data/datasets/zhuhaoran/CDDMBench/LLaVA-1.1.3/clipmain/logs/FG/best_epoch_weights.pth',
         #----------------------------------------------------------------------------------------------------------------------------------------#
         #   模型的种类
         #   openai/VIT-B-16为openai公司开源的CLIP模型中，VIT-B-16规模的CLIP模型，英文文本与图片匹配，有公开预训练权重可用。
