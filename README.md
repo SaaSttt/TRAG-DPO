@@ -30,8 +30,6 @@ Existing general-purpose Vision-Language Models (VLMs) often suffer from **hallu
 
 ## 🛠️ Environment Setup
 
-We recommend using Anaconda to manage the environment.
-
 ```bash
 # Clone the repository
 git clone https://github.com/SaaSttt/TRAG-DPO.git

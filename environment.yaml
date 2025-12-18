@@ -1,4 +1,4 @@
-name: python38llava
+name: trag-dpo
 channels:
   - pytorch
   - nvidia
