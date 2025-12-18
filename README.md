@@ -25,7 +25,8 @@ Existing general-purpose Vision-Language Models (VLMs) often suffer from **hallu
 3.  **DPO Fine-Tuning**: Direct Preference Optimization to align model responses with expert knowledge and reduce redundancy.
 
 ​                               ![](fig/framework.png)
-​												Framework of the TRAG-DPO model with four main components.
+
+​                                                Framework of the TRAG-DPO model with four main components.
 
 ## 🛠️ Environment Setup
 
